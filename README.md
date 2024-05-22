@@ -25,7 +25,9 @@ This project consists of several Jupyter Notebooks that perform the following ta
 ├── 01_nba_stats_scraping.ipynb # Notebook for scraping NBA statistics
 ├── 02_nba_stats_scraping.ipynb # Continuation of the scraping process
 ├── 03_nba_analysis.ipynb # Notebook for analyzing NBA player statistics
+
 ├── nba_player_stats.csv # CSV file containing scraped NBA player statistics
+
 ├── pyproject.toml # Project configuration file
 ├── poetry.lock # Dependency lock file
 └── README.md # Project documentation
